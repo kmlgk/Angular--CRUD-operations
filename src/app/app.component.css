@@ -1,0 +1,25 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  tr.mat-header-row{
+    background-color: #e9467f;
+  }
+  .mat-header-cell{
+    font-size: 15px !important;
+    color: #ffffff !important;
+  }
+  .mat-form-field{
+    width: 30%;
+    float: right;
+  }
+ 
+  
